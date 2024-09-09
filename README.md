@@ -1,0 +1,2 @@
+# practica
+klk angualar
